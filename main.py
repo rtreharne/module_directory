@@ -180,7 +180,7 @@ def main():
 
     # create index page html
 
-    index_html += """<table style="width:100%">"""
+    index_html = """<table style="width:100%">"""
 
     for root, dirs, files in os.walk("formatted_html"):
         for file in tqdm.tqdm(files, desc="Creating module directory ..."):
