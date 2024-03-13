@@ -8,7 +8,7 @@ https://www.canvaswizards.org.uk
 
 This tool will:
 
-+ Create a Module are in Canvas containing an index page to module info pages
++ Create a Module block in a Canvas course that contains an index page to module info pages
 + Create a Canvas page for each module page from stored html file
 
 
